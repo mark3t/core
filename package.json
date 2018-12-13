@@ -1,0 +1,23 @@
+{
+  "name": "mark3t-core",
+  "version": "0.0.1",
+  "description": "Mark3t core package",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mark3t/core.git"
+  },
+  "author": "jcebxd@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mark3t/core/issues"
+  },
+  "homepage": "https://github.com/mark3t/core#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
